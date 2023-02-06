@@ -12,6 +12,7 @@ on:
       - main
       - 'dev-*'
       - 'deyg/**'
+      - 'test/**'
     paths-ignore:
       - '.github/workflows/*'
 jobs:
